@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: mergaveniii/hiring-app:49
+        image: mergaveniii/hiring-app:50
         ports:
         - containerPort: 8080
